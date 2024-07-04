@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736310554360",
+    "project_id": "flutter-phoenix-academy",
+    "storage_bucket": "flutter-phoenix-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736310554360:android:11dcde2d15d25b55efd50d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_phoenix_academy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3hFNha-LyXE2T6DOaS7YPNWMUwFTZR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
