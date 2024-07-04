@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_phoenix_academy/config/constants/color_contants.dart';
+import 'package:flutter_phoenix_academy/presentation/constants/color_contants.dart';
 
 class AcademicMenu extends StatelessWidget {
   final IconData icon;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_phoenix_academy/config/constants/color_contants.dart';
+import 'package:flutter_phoenix_academy/presentation/constants/color_contants.dart';
 import 'package:flutter_phoenix_academy/presentation/home/widget/academic_menu_grid/academic_menu_item_widget.dart';
 
 class AcademicMenuGridWidget extends StatelessWidget {

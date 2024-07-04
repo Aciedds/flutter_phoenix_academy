@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_phoenix_academy/config/constants/assets_constants.dart';
+import 'package:flutter_phoenix_academy/presentation/constants/assets_constants.dart';
 import 'package:flutter_phoenix_academy/presentation/home/widget/home_works_list/home_work_controller.dart';
 import 'package:flutter_phoenix_academy/presentation/home/widget/home_works_list/home_work_list_item_widget.dart';
 import 'package:get/get.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_phoenix_academy/config/constants/assets_constants.dart';
 import 'package:flutter_phoenix_academy/config/routes.dart';
+import 'package:flutter_phoenix_academy/presentation/constants/assets_constants.dart';
 import 'package:get/get.dart';
 
 class OnBoardingView extends StatelessWidget {

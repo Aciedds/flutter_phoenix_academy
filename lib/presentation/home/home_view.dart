@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_phoenix_academy/config/constants/color_contants.dart';
+import 'package:flutter_phoenix_academy/presentation/constants/color_contants.dart';
 import 'package:flutter_phoenix_academy/presentation/home/home_controller.dart';
 import 'package:flutter_phoenix_academy/presentation/home/widget/academic_menu_grid/academic_menu_grid_widget.dart';
 import 'package:flutter_phoenix_academy/presentation/home/widget/home_collapsed_appbar/home_collapsed_appbar_widget.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_phoenix_academy/config/constants/color_contants.dart';
 import 'package:flutter_phoenix_academy/config/routes.dart';
+import 'package:flutter_phoenix_academy/presentation/constants/color_contants.dart';
 import 'package:flutter_phoenix_academy/presentation/login/login_controller.dart';
 import 'package:get/get.dart';
 

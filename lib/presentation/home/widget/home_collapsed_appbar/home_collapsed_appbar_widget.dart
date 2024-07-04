@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_phoenix_academy/config/constants/assets_constants.dart';
-import 'package:flutter_phoenix_academy/config/constants/color_contants.dart';
+import 'package:flutter_phoenix_academy/presentation/constants/assets_constants.dart';
+import 'package:flutter_phoenix_academy/presentation/constants/color_contants.dart';
 import 'package:flutter_phoenix_academy/presentation/home/widget/home_collapsed_appbar/home_collapsed_appbar_controller.dart';
 import 'package:get/get.dart';
 
@@ -110,7 +110,9 @@ class HomeCollapsedAppbarWidget extends StatelessWidget {
                       minHeight: 6,
                       value: controller.progress.value,
                       backgroundColor: Colors.white.withOpacity(0.3),
-                      valueColor: AlwaysStoppedAnimation(ColorPalette.colorB),
+                      valueColor: const AlwaysStoppedAnimation(
+                        ColorPalette.colorB,
+                      ),
                     );
                   });
                 },
